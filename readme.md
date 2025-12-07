@@ -132,6 +132,14 @@ Used for creating interactive and responsive charts in the dashboard.
 - Frontend & Dashboard deployed on: Vercel
 - Database hosted on MongoDB Atlas
 
+## Screenshots
+
+**Landing Page**
+![Landing Page](image1.png)
+
+**Trading UI App (Dashboard)**
+![Dashboard](image.png)
+
 ## Contributing
 
 Contributions are welcome!
