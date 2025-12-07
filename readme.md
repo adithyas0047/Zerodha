@@ -135,9 +135,11 @@ Used for creating interactive and responsive charts in the dashboard.
 ## Screenshots
 
 **Landing Page**
+
 ![Landing Page](image1.png)
 
 **Trading UI App (Dashboard)**
+
 ![Dashboard](image.png)
 
 ## Contributing
