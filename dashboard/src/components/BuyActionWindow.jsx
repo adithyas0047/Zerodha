@@ -25,9 +25,13 @@ const BuyActionWindow = ({ uid }) => {
         mode: "BUY",
       };
 
-      const res = await axios.post("http://localhost:4000/newOrder", payload, {
-        timeout: 5000,
-      });
+      const res = await axios.post(
+        "https://zerodha-mjok.onrender.com/newOrder",
+        payload,
+        {
+          timeout: 5000,
+        }
+      );
       console.log("Order response:", res.data);
 
       // use the function obtained from useContext — NOT GeneralContext.closeBuyWindow()
