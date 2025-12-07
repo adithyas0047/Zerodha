@@ -4,7 +4,7 @@
 
 A full-stack Zerodha trading dashboard clone built using modern web technologies. This project replicates core features of portfolio tracking such as holdings, positions, orders, charts, and real-time-like UI updates.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -22,7 +22,7 @@ A full-stack Zerodha trading dashboard clone built using modern web technologies
 
 - MongoDB
 
-## 📌 Features
+## Features
 
 **Dashboard**
 
@@ -48,7 +48,7 @@ A full-stack Zerodha trading dashboard clone built using modern web technologies
 - Fully responsive and styled using Bootstrap + Material UI
 - Inspired by Zerodha’s minimalistic design principles
 
-## 🏗 Project Structure
+## Project Structure
 
 ```pgsql
 Zerodha/
